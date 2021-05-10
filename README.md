@@ -2,7 +2,7 @@
 
 This was an introductory course named "Introduction to Data Science and Artificial Intelligence" taken in Year 1, Semester 1. In this project my team and I explored the [Olympics Data Set obtained from Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results). 
 
-## Tasks Performed
+## Description
 
 The following was done in the notebook by the end of the project:
 1. Data Cleaning and Preprocessing using numpy, pandas.
